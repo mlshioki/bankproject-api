@@ -91,5 +91,28 @@
 			},
 			"response": []
 		}
-	]
+	],
+	"bills":[
+		{
+			"name": "Conta de água",
+			"value": "456,98",
+			"date": "15/02/2022"
+		},
+		{
+			"name": "Conta de luz",
+			"value": "397,29",
+			"date": "18/02/2022"
+		},
+		{
+			"name": "Conta de internet",
+			"value": "197,41",
+			"date": "21/02/2022"
+		},
+		{
+			"name": "Cartão de crédito",
+			"value": "527,63",
+			"date": "22/02/2022"
+		}
+	]	
 }
+
