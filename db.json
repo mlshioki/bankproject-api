@@ -7,22 +7,8 @@
 			"password": "Itau02*",
 			"accountNumber": 123456789012,
 			"balance": 2500,
-			"id": 1
-		},
-		{
-			"name": "Felipe Melo",
-			"email": "felipemelo@itau.com",
-			"cpf": "99954802343",
-			"password": "Itau19#",
-			"accountNumber": 9876543211098,
-			"balance": 15400,
-			"id": 2
-		}
-	],
-	"bills":[
-		{
-			"userId": 1,
-			"data": [
+			"id": 1,
+			"bills": [
 				{
 					"name": "Conta de água",
 					"value": "456,98",
@@ -44,8 +30,14 @@
 			]
 		},
 		{
-			"userId": 2,
-			"data": [
+			"name": "Felipe Melo",
+			"email": "felipemelo@itau.com",
+			"cpf": "99954802343",
+			"password": "Itau19#",
+			"accountNumber": 9876543211098,
+			"balance": 15400,
+			"id": 2,
+			"bills": [
 				{
 					"name": "Cartão de crédito",
 					"value": "527,63",
@@ -66,7 +58,6 @@
 				}
 			]
 		}
-		
-	]	
+	]
 }
 
